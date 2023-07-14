@@ -1,0 +1,29 @@
+/* Navbar Styling */
+
+nav {
+    font-size: 2rem;
+    position: fixed;
+    left: 0;
+    right: 0;
+    padding: .5em 1em;
+    box-shadow: 0 2px 4px -2px black;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav li {
+    float: right;
+}
+nav li a {
+    display: block;
+    padding: 8px;
+    background-color: gray;
+}
+
+nav li a.active {
+    /* border: 1px solid #555; */
+    background-color: aqua;
+}
