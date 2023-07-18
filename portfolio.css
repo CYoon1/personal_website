@@ -1,0 +1,13 @@
+.project {
+    width: calc(100% - 6em);
+    background: #7dc2ff;
+    background: #4b6f88;
+    color: #222;
+    box-shadow: 0 3px 6px -2px #ccc;
+    margin: 2em auto;
+    padding: 1em;
+}
+h2 {
+    font-size: 2rem;
+    border-bottom: 1px solid #f1acff;
+}
