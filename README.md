@@ -20,7 +20,7 @@ Requirements
     A persistent header with links
     -Done
     Personalized content, including both formatted text and images
-    -To Do
+    -Done
     Basic CSS styling, included via an external file
     -Done
 
@@ -29,4 +29,7 @@ Requirements
     -Done
 
     HTML/CSS/JavaScript files submitted via a GitHub repository
-    -In Progress
+    -Done
+
+Future Plans:
+    Add Real Text to index and about.
