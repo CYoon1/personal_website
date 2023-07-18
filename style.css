@@ -1,6 +1,7 @@
 /* Navbar Styling */
 
 nav {
+    float: right;
     font-size: 2rem;
     position: fixed;
     left: 0;
@@ -26,4 +27,8 @@ nav li a {
 nav li a.active {
     /* border: 1px solid #555; */
     background-color: aqua;
+}
+
+.name {
+    float: left;
 }
